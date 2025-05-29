@@ -1,5 +1,8 @@
 # 📷 HappyCam – Wireless Backup Camera Cleaner
 
+![HappyCam Product Photo](HappyCam-Team.jpg)
+
+
 ## ✨ Overview
 For my Entrepreneurship, Innovation, and Invention class, my team and I created HappyCam. HappyCam is an independent, user-installable **backup camera cleaning device** designed to reduce accidents caused by dirty rear-view cameras. This was a group project aimed at developing a marketable consumer product that blends mechanical design, electronics integration, and strategic business planning. The final product mounts behind a vehicle’s license plate and sprays washer fluid onto the backup camera at the press of a button—no hardwiring or car modifications needed.
 

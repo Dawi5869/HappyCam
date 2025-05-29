@@ -29,8 +29,6 @@ My role in this project was twofold: I acted as the **Chief Financial Officer (C
 - **Onshape** – Used to help draft CAD housing outlines and nozzle/tank assembly components.
 - **Arduino Nano** – Microcontroller used to test the pump activation and wireless communication system.
 - **Arduino IDE** – IDE used to test and debug Arduino code and radio communication circuits.
-- **nRF24L01+ Radio Module** – Wireless module used to send a Boolean activation signal to the pump circuit.
-- **Basic Soldering Tools** – Assisted in building breadboard prototypes and integrating electronics into the housing.
 - **Excel / Google Sheets** – Used for financial modeling and projecting production costs, break-even analysis, and ROI for investors.
 
 ---

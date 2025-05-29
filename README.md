@@ -1,7 +1,7 @@
 # 📷 HappyCam – Wireless Backup Camera Cleaner
 
 <p align="center">
-  <img src="HappyCam-Team.jpg" alt="HappyCam Product Photo" width="400"/>
+  <img src="HappyCam-Team.jpg" alt="HappyCam Product Photo" width="700"/>
 </p>
 
 

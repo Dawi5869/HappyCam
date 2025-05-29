@@ -6,7 +6,7 @@
 
 
 ## ✨ Overview
-For my Entrepreneurship, Innovation, and Invention class, my team and I created HappyCam. HappyCam is an independent, user-installable **backup camera cleaning device** designed to reduce accidents caused by dirty rear-view cameras. This was a group project aimed at developing a marketable consumer product that blends mechanical design, electronics integration, and strategic business planning. The final product mounts behind a vehicle’s license plate and sprays washer fluid onto the backup camera at the press of a button—no hardwiring or car modifications needed.
+For my Entrepreneurship, Innovation, and Inventions class, my team and I created HappyCam. HappyCam is an independent, user-installable **backup camera cleaning device** designed to reduce accidents caused by dirty rear-view cameras. This was a group project aimed at developing a marketable consumer product that blends mechanical design, electronics integration, and strategic business planning. The final product mounts behind a vehicle’s license plate and sprays washer fluid onto the backup camera at the press of a button—no hardwiring or car modifications needed.
 
 My role in this project was twofold: I acted as the **Chief Financial Officer (CFO)** and also contributed to the **engineering prototyping and electronics testing**. As CFO, I led our financial modeling, cost evaluation, and market research. On the engineering side, I helped with CAD work for our early prototypes, pump system testing, and validation of the wireless pump activation circuit using Arduino.
 
